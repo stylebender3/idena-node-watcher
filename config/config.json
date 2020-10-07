@@ -17,7 +17,8 @@
         "cert_path": "/path/to/cert.pem",
         "url": "https://somedomain.com"
     }
-    "web": {
+    "web": 
+    {
         "use_web": false,
         "password": "<password>"
     }
